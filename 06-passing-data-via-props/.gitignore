@@ -21,15 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-/01-starting-setup
-/02-building-a-first-custom-component
-/03-writing-more-complex-jsx-code
-/04-adding-basic-css-styling
-/05-outputting-dynamic-data
-
-/07-adding-normal-javascript-logic
-/08-splitting-components-into-multiple-components
-/09-assignment-1-solution
-/10-the-concept-of-composition
-/11-finished
-
